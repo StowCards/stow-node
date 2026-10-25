@@ -1,0 +1,4 @@
+# Every change needs a review from the SDK maintainers.
+# Create the team in the StowCards organisation before enabling
+# "Require review from Code Owners" on the main branch.
+* @StowCards/sdk-maintainers
