@@ -1,5 +1,11 @@
 # Stow Cards Node.js SDK
 
+> [!IMPORTANT]
+> **This repository has moved.** The SDK now lives in the `node/` folder of
+> [StowCards/stow-examples](https://github.com/StowCards/stow-examples/tree/main/node), beside the API
+> examples in other languages. Open issues and pull requests there. The npm package is unchanged:
+> `npm install @stowcards/sdk`. This repository is archived and read-only.
+
 [![CI](https://github.com/StowCards/stow-node/actions/workflows/ci.yml/badge.svg)](https://github.com/StowCards/stow-node/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/@stowcards/sdk.svg)](https://www.npmjs.com/package/@stowcards/sdk)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/StowCards/stow-node/badge)](https://scorecard.dev/viewer/?uri=github.com/StowCards/stow-node)
